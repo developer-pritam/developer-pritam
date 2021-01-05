@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritam Kumar</h1>
-<h3 align="center">Kodular.io Developer || Blogger || Youtuber <a href="https://dev.to/rhythmjayee">
+<h3 align="center">Kodular.io Developer || Blogger || Youtuber <a href="https://dev.to/developerpritam">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Developer Pritam's Profile" height="30" width="30">
 </a></h3>
 
