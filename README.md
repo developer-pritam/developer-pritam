@@ -3,7 +3,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Developer Pritam's Profile" height="30" width="30">
 </a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-pritam" alt="rhythmjayee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-pritam" alt="developerpritam" /> </p>
 
 - 📫 How to reach me **developerpritam@gmail.com**
 
