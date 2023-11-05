@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **developerpritam@gmail.com**
 
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=developer-pritam)
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-pritam&layout=compact" alt="rhythmjayee" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-pritam&show_icons=true" alt="rhythmjayee" /></p>
-
